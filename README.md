@@ -9,3 +9,4 @@
 [![Discord](https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&link=https://discord.com/users/692373101278789672)](https://discord.com/users/692373101278789672)
 [![E-Mail](https://img.shields.io/badge/E--Mail-430297?style=flat-square&logo=yahoo&link=mailto:mcsheptyt@gmail.com)](mailto:mcsheptyt@gmail.com)
 [![dev.to](https://img.shields.io/badge/dev.to-000000?style=flat-square&logo=dev.to&link=https://dev.to/mcshept)](https://dev.to/mcshept)
+[![Twitter](https://img.shields.io/badge/Twitter-1da1f2?style=flat&logo=twitter&link=https://twitter.com/Shept16)](https://twitter.com/Shept16)
