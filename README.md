@@ -10,3 +10,20 @@
 [![E-Mail](https://img.shields.io/badge/E--Mail-430297?style=flat-square&logo=yahoo&link=mailto:mcsheptyt@gmail.com)](mailto:mcsheptyt@gmail.com)
 [![dev.to](https://img.shields.io/badge/dev.to-000000?style=flat-square&logo=dev.to&link=https://dev.to/mcshept)](https://dev.to/mcshept)
 [![Twitter](https://img.shields.io/badge/Twitter-1da1f2?style=flat&logo=twitter&link=https://twitter.com/Shept16)](https://twitter.com/Shept16)
+## Languages ⚙️
+![Java](https://i.imgur.com/9YkvTpG.png)
+![C#](https://i.imgur.com/7zN7QQF.png)
+![Rust](https://i.imgur.com/r8NTB1L.png)
+![JS](https://i.imgur.com/ebbYVKW.png)
+![Nodejs](https://i.imgur.com/1bdqDXY.png)
+![Git](https://i.imgur.com/nSQined.png)
+![JSON](https://i.imgur.com/RYekFzZ.png)
+![Maven](https://i.imgur.com/HuLMB33.png)
+
+## Tools 💻
+![Intellij IDEA](https://i.imgur.com/C6MuufI.png)
+![Visual Studio Code](https://i.imgur.com/sK0M7l6.png)
+![Visual Studio](https://i.imgur.com/dcYzfQh.png)
+![Unity](https://i.imgur.com/Kgdffs7.png)
+![Atom](https://i.imgur.com/L6hwmp9.png)
+![GitHub Desktop](https://i.imgur.com/TNGeLEB.png)
