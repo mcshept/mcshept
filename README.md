@@ -27,3 +27,7 @@
 ![Unity](https://i.imgur.com/Kgdffs7.png)
 ![Atom](https://i.imgur.com/L6hwmp9.png)
 ![GitHub Desktop](https://i.imgur.com/TNGeLEB.png)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcshept&show_icons=true&locale=en&layout=compact" alt="mcshept" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcshept&show_icons=true&locale=en" alt="mcshept" /></p>
