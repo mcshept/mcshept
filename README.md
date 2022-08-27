@@ -12,22 +12,7 @@
 [![dev.to](https://img.shields.io/badge/dev.to-000000?style=flat-square&logo=dev.to&link=https://dev.to/mcshept)](https://dev.to/mcshept)
 [![Twitter](https://img.shields.io/badge/Twitter-1da1f2?style=flat&logo=twitter&link=https://twitter.com/Shept16)](https://twitter.com/Shept16)
 ## Languages ⚙️
-![Java](https://i.imgur.com/9YkvTpG.png)
-![C#](https://i.imgur.com/7zN7QQF.png)
-![Rust](https://i.imgur.com/r8NTB1L.png)
-![JS](https://i.imgur.com/ebbYVKW.png)
-![Nodejs](https://i.imgur.com/1bdqDXY.png)
-![Git](https://i.imgur.com/nSQined.png)
-![JSON](https://i.imgur.com/RYekFzZ.png)
-![Maven](https://i.imgur.com/HuLMB33.png)
-
-## Tools 💻
-![Intellij IDEA](https://i.imgur.com/C6MuufI.png)
-![Visual Studio Code](https://i.imgur.com/sK0M7l6.png)
-![Visual Studio](https://i.imgur.com/dcYzfQh.png)
-![Unity](https://i.imgur.com/Kgdffs7.png)
-![Atom](https://i.imgur.com/L6hwmp9.png)
-![GitHub Desktop](https://i.imgur.com/TNGeLEB.png)
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle"
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcshept&show_icons=true&locale=en&layout=compact" alt="mcshept" /></p>
 
