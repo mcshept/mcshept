@@ -2,7 +2,7 @@
 
 - 🔭I'm currently coding for [Fynncraft.de](https://discord.gg/m6PhQAPZbG) & [PvPWorld.eu](https://pvpworld.eu/)
 - 💻I’m currently working on [Sheep Script](https://github.com/mcshept/SheepScript)
-- 💲I also have [Fiverr](https://de.fiverr.com/users/dasshept/) with my friend [DasSharkk](https://github.com/DasSharkk/), checkout our [Discord Server](https://dsc.gg/dasshept)
+- 💲I also have [Fiverr](https://de.fiverr.com/users/dasshept/) with my friend [DasSharkk](https://github.com/DasSharkk/), checkout our [Discord Server](https://dasshept.de/dc)
 - 👍Most of the time I code Minecraft plugins for each version, but sometimes Minecraft clients, or something else entirely😮
 - 💙Nothing beats [Java](https://www.oracle.com/de/java/) and [Maven](https://maven.apache.org/)
 - 👨‍🎓I'm currently learning [Spring](https://spring.io/) and [Kotlin](https://kotlinlang.org/) (and I want to learn [Rust](https://www.rust-lang.org/) but i'm too lazy)
