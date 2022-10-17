@@ -1,6 +1,6 @@
 ### `System.out.println(Hey, "I am Shept 👋")`
 
-- 🔭I'm currently coding for [Fynncraft.de](https://discord.gg/m6PhQAPZbG) & [PvPWorld.eu](https://pvpworld.eu/)
+- 🔭I'm currently coding for [Fynncraft.de](https://discord.gg/m6PhQAPZbG)
 - 💻I’m currently working on [Sheep Script](https://github.com/mcshept/SheepScript)
 - 💲I also have [Fiverr](https://de.fiverr.com/users/dasshept/) with my friend [DasSharkk](https://github.com/DasSharkk/), checkout our [Discord Server](https://dasshept.de/dc)
 - 👍Most of the time I code Minecraft plugins for each version, but sometimes Minecraft clients, or something else entirely😮
