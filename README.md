@@ -1,5 +1,9 @@
 ### `System.out.println(Hey, "I am Shept")` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
+![Dev Gif](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
+
+#
+
 - 🔭I'm currently coding for [Fynncraft.de](https://discord.gg/m6PhQAPZbG)
 - 💻I’m currently working on [Sheep Script](https://github.com/mcshept/SheepScript)
 - 💲I also have [Fiverr](https://de.fiverr.com/users/dasshept/) with my friend [DasSharkk](https://github.com/DasSharkk/), checkout our [Discord Server](https://dasshept.de/dc)
