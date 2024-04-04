@@ -1,4 +1,4 @@
-### `System.out.println(Hey, "I am Shept")` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+### `System.out.println("Hey, I am Shept")` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 ![Dev Gif](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
 
